@@ -1,0 +1,14 @@
+﻿  tasmenu.cpp
+C:\Users\i am\source\repos\CSS TAS\CSS TAS\src\features\playbackcsstas.h(34,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\i am\source\repos\CSS TAS\CSS TAS\src\features\playbackcsstas.h(37,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\i am\source\repos\CSS TAS\CSS TAS\src\features\playbackcsstas.h(62,16): warning C4018: '>': signed/unsigned mismatch
+  createmove.cpp
+C:\Users\i am\source\repos\CSS TAS\CSS TAS\src\features\playbackcsstas.h(34,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\i am\source\repos\CSS TAS\CSS TAS\src\features\playbackcsstas.h(37,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\i am\source\repos\CSS TAS\CSS TAS\src\features\playbackcsstas.h(62,16): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  31 of 2595 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    110 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CSS TAS.vcxproj -> C:\Users\i am\source\repos\CSS TAS\Release\CSS TAS.dll
